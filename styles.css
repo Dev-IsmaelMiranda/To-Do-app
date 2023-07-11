@@ -30,7 +30,7 @@ main {
 .header {
   width: 40vw;
   height: 25vh;
-  background-image: url('https://images.pexels.com/photos/631477/pexels-photo-631477.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  background-image: url('https://images.pexels.com/photos/218863/pexels-photo-218863.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
   background-size: 100% 200%;
   background-repeat: no-repeat;
   border-radius: 15px 15px 0 0;
@@ -75,8 +75,6 @@ main {
   font-weight: bold;
 }
 
-
-
 /*form*/
 form {
   width: 100%;
@@ -100,7 +98,7 @@ form {
 
 .btnCreate {
   padding: 10px 15px;
-  background-color: rgb(6, 128, 228);
+  background-color: rgb(22, 43, 152);
   border: none;
   color: #fff;
   border-radius: 25px;
@@ -108,7 +106,7 @@ form {
 }
 
 .btnCreate:hover {
-  background-color: rgb(49, 125, 225);
+  background-color: rgb(64, 169, 58);
 }
 
 .cardsList {
